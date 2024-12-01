@@ -1,5 +1,5 @@
 
-![CSS Grid](https://imgur.com/KfurviO.png)
+![CSS Grid](./assets//capa.png)
 
 # CSS Grid
 
